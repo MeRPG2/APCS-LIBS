@@ -32,3 +32,23 @@ You are done! Here is how you use the library (Each line is a different feature,
 There is a list of availible fonts at http://www.java2s.com/Tutorial/Java/0261__2D-Graphics/Togetallavailablefontsinyoursystem.htm
 
 Create a ticket for help!
+
+
+
+
+
+
+
+
+FAQ:
+====
+
+If you get errors, hover over the red underlined text with your cursor, and wait for a box to appear.
+==
+
+In the box, click "Import xxxx"
+
+
+	IO.in()
+
+re
