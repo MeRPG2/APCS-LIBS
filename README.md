@@ -10,17 +10,17 @@ Create the classes in that package.
 Repeat steps 5 and 6, but call the class Text instead of IO
 You are done! Here is how you use the library (Each line is a different feature, none are required for another):
 
-    String whatTheyTyped = IO.in();
-		IO.out("Hi");
-		IO.out(2);
-		IO.outnl("Same.");
-		IO.prl();
-		IO.sleep(50);
-		
-		Text.printBigText("Hi");
-		Text.printBigText("Hi", new java.awt.Font("Tomaha", Font.PLAIN, 35));
-		Text.printBigText("Hi", "Gigi");
-		Text.printBigText("Hi", "Gigi", 30);
+	String whatTheyTyped = IO.in();
+	IO.out("Hi");
+	IO.out(2);
+	IO.outnl("Same.");
+	IO.prl();
+	IO.sleep(50);
+	
+	Text.printBigText("Hi");
+	Text.printBigText("Hi", new java.awt.Font("Tomaha", Font.PLAIN, 35));
+	Text.printBigText("Hi", "Gigi");
+	Text.printBigText("Hi", "Gigi", 30);
 
 There is a list of availible fonts at http://www.java2s.com/Tutorial/Java/0261__2D-Graphics/Togetallavailablefontsinyoursystem.htm
 Create a ticket for help!
