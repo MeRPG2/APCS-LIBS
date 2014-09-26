@@ -31,6 +31,10 @@ You are done! Here is how you use the library (Each line is a different feature,
 
 There is a list of availible fonts at http://www.java2s.com/Tutorial/Java/0261__2D-Graphics/Togetallavailablefontsinyoursystem.htm
 
+Printing a picture is easy. Remember your escape characters!
+
+	IO.printPicture("C:\\Users\\2829316\\Desktop\\img.png");
+
 Create a ticket for help!
 
 
@@ -51,4 +55,3 @@ In the box, click "Import xxxx"
 
 	IO.in()
 
-re
