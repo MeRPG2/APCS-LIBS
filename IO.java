@@ -1,7 +1,14 @@
 package a.b;
 
+import java.awt.Color;
+import java.awt.Graphics2D;
+import java.awt.geom.AffineTransform;
+import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.InputStreamReader;
+
+import javax.imageio.ImageIO;
 
 public class IO {
 	private static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
