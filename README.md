@@ -23,6 +23,8 @@ You are done! Here is how you use the library (Each line is a different feature,
 	IO.outnl("Same.");
 	IO.prl();
 	IO.sleep(50);
+	double doubleValue = IO.readDouble("This is a prompt for a double: ");
+	int intValue = IO.readInt("This is a prompt for an int: ", "That is no integer. Please enter an integer.");
 	
 	Text.printBigText("Hi");
 	Text.printBigText("Hi", new java.awt.Font("Tomaha", Font.PLAIN, 35));
